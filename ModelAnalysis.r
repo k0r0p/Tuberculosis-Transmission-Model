@@ -1,6 +1,7 @@
 ##################################################################################
 # An R script to solve ODE's of a Susceptible Infected Recovered (SIR) model 
 # I will add in our more complicated DE after further experimenting with the simplified model 
+#I am also sharing this on my Github TravisWu so it will be readily available to all
 require("sfsmisc")
 source("sir_func.R")  # this file contains a function SIRfunc that calculates
 # the derivatives of S Iw and Ir to time
